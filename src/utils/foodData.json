@@ -1,0 +1,549 @@
+[
+  {
+    "id": 1,
+    "title": "Kırmızı Mercimek Çorbası",
+    "yağ": 0.6,
+    "protein": 6.0,
+    "karbonhidrat": 12.6,
+    "kcal": 82
+  },
+  {
+    "id": 2,
+    "title": "Izgara Tavuk Göğsü",
+    "yağ": 1.0,
+    "protein": 31.0,
+    "karbonhidrat": 0.0,
+    "kcal": 135
+  },
+  {
+    "id": 3,
+    "title": "Spagetti Bolognese",
+    "yağ": 7.0,
+    "protein": 12.0,
+    "karbonhidrat": 58.0,
+    "kcal": 315
+  },
+  {
+    "id": 4,
+    "title": "Salata (Yeşillik)",
+    "yağ": 0.4,
+    "protein": 1.4,
+    "karbonhidrat": 3.0,
+    "kcal": 20
+  },
+  {
+    "id": 5,
+    "title": "Somon Balığı",
+    "yağ": 9.0,
+    "protein": 25.0,
+    "karbonhidrat": 0.0,
+    "kcal": 200
+  },
+  {
+    "id": 6,
+    "title": "Margarita Pizza",
+    "yağ": 12.0,
+    "protein": 10.0,
+    "karbonhidrat": 30.0,
+    "kcal": 250
+  },
+  {
+    "id": 7,
+    "title": "Kızarmış Tavuk Kanadı",
+    "yağ": 18.0,
+    "protein": 22.0,
+    "karbonhidrat": 1.5,
+    "kcal": 290
+  },
+  {
+    "id": 8,
+    "title": "Meyve Salatası",
+    "yağ": 0.3,
+    "protein": 1.0,
+    "karbonhidrat": 25.0,
+    "kcal": 100
+  },
+    {
+      "id": 9,
+      "title": "Yulaf Lapası",
+      "yağ": 3.5,
+      "protein": 5.0,
+      "karbonhidrat": 30.0,
+      "kcal": 150
+    },
+    {
+      "id": 10,
+      "title": "Muz",
+      "yağ": 0.39,
+      "protein": 1.3,
+      "karbonhidrat": 30.0,
+      "kcal": 105
+    },
+    {
+      "id": 11,
+      "title": "Badem Ezmesi",
+      "yağ": 9.0,
+      "protein": 3.4,
+      "karbonhidrat": 3.0,
+      "kcal": 98
+    },
+    {
+      "id": 12,
+      "title": "Süt",
+      "yağ": 7.9,
+      "protein": 8.0,
+      "karbonhidrat": 12.2,
+      "kcal": 150
+    },
+    {
+      "id": 13,
+      "title": "Yumurta",
+      "yağ": 4.8,
+      "protein": 6.5,
+      "karbonhidrat": 0.6,
+      "kcal": 68
+    },
+    {
+      "id": 14,
+      "title": "Bal",
+      "yağ": 0.0,
+      "protein": 0.1,
+      "karbonhidrat": 17.3,
+      "kcal": 64
+    },
+    {
+      "id": 15,
+      "title": "Yaban Mersini",
+      "yağ": 0.4,
+      "protein": 0.7,
+      "karbonhidrat": 14.5,
+      "kcal": 57
+    },
+    {
+      "id": 16,
+      "title": "Yoğurt",
+      "yağ": 3.3,
+      "protein": 5.0,
+      "karbonhidrat": 5.0,
+      "kcal": 70
+    },
+    {
+      "id": 17,
+      "title": "Fındık",
+      "yağ": 12.3,
+      "protein": 3.0,
+      "karbonhidrat": 5.0,
+      "kcal": 94
+    },
+    {
+      "id": 18,
+      "title": "Portakal Suyu",
+      "yağ": 0.2,
+      "protein": 1.2,
+      "karbonhidrat": 24.0,
+      "kcal": 112
+    },  
+  {
+    "id": 19,
+    "title": "Dana Kavurma",
+    "yağ": 10.0,
+    "protein": 29.0,
+    "karbonhidrat": 2.0,
+    "kcal": 250
+  },
+  {
+    "id": 20,
+    "title": "Beyaz Peynir",
+    "yağ": 21.0,
+    "protein": 18.0,
+    "karbonhidrat": 1.0,
+    "kcal": 260
+  },
+  {
+    "id": 21,
+    "title": "Kahve",
+    "yağ": 0.0,
+    "protein": 0.1,
+    "karbonhidrat": 0.0,
+    "kcal": 2
+  },
+  {
+    "id": 22,
+    "title": "Hamburger",
+    "yağ": 20.0,
+    "protein": 12.0,
+    "karbonhidrat": 28.0,
+    "kcal": 250
+  },
+  {
+    "id": 23,
+    "title": "Pirinç Pilavı",
+    "yağ": 0.3,
+    "protein": 2.7,
+    "karbonhidrat": 28.0,
+    "kcal": 130
+  },
+  {
+    "id": 24,
+    "title": "Kırmızı Lahana Salatası",
+    "yağ": 0.3,
+    "protein": 2.0,
+    "karbonhidrat": 7.0,
+    "kcal": 40
+  },
+  {
+    "id": 25,
+    "title": "Kuru Fasulye",
+    "yağ": 0.5,
+    "protein": 6.9,
+    "karbonhidrat": 19.0,
+    "kcal": 100
+  },
+  {
+    "id": 26,
+    "title": "Fırın Tavuk Kanatları",
+    "yağ": 18.0,
+    "protein": 13.0,
+    "karbonhidrat": 1.0,
+    "kcal": 230
+  },
+  {
+    "id": 27,
+    "title": "Ceviz",
+    "yağ": 19.0,
+    "protein": 4.3,
+    "karbonhidrat": 3.0,
+    "kcal": 190
+  },
+  {
+    "id": 28,
+    "title": "Kabak Mücver",
+    "yağ": 13.0,
+    "protein": 3.0,
+    "karbonhidrat": 10.0,
+    "kcal": 180
+  },
+  {
+    "id": 29,
+    "title": "Zeytin",
+    "yağ": 10.7,
+    "protein": 0.8,
+    "karbonhidrat": 0.5,
+    "kcal": 115
+  },
+  {
+    "id": 30,
+    "title": "Kuru Kayısı",
+    "yağ": 0.5,
+    "protein": 2.0,
+    "karbonhidrat": 25.0,
+    "kcal": 107
+  },
+  {
+    "id": 31,
+    "title": "Fırın Tavuk Baget",
+    "yağ": 20.0,
+    "protein": 30.0,
+    "karbonhidrat": 5.0,
+    "kcal": 350
+  },
+  {
+    "id": 32,
+    "title": "Beyaz Ekmek",
+    "yağ": 0.9,
+    "protein": 2.7,
+    "karbonhidrat": 12.8,
+    "kcal": 67
+  },
+  {
+    "id": 33,
+    "title": "Çilek Reçeli",
+    "yağ": 0.1,
+    "protein": 0.3,
+    "karbonhidrat": 14.0,
+    "kcal": 50
+  },
+  {
+    "id": 34,
+    "title": "Bal Kayısı Reçeli",
+    "yağ": 0.1,
+    "protein": 0.4,
+    "karbonhidrat": 13.0,
+    "kcal": 49
+  },
+  {
+    "id": 35,
+    "title": "Kaşar Peyniri",
+    "yağ": 20.0,
+    "protein": 25.0,
+    "karbonhidrat": 2.0,
+    "kcal": 300
+  },
+  {
+    "id": 36,
+    "title": "Kepekli Ekmek",
+    "yağ": 1.5,
+    "protein": 4.0,
+    "karbonhidrat": 15.0,
+    "kcal": 80
+  },
+  {
+    "id": 37,
+    "title": "Çay",
+    "yağ": 0.0,
+    "protein": 0.0,
+    "karbonhidrat": 0.0,
+    "kcal": 2
+  },
+  {
+    "id": 38,
+    "title": "Mercimek Köftesi",
+    "yağ": 6.0,
+    "protein": 14.0,
+    "karbonhidrat": 50.0,
+    "kcal": 350
+  },
+  {
+    "id": 39,
+    "title": "Tavuklu Nohut Yemeği",
+    "yağ": 10.0,
+    "protein": 20.0,
+    "karbonhidrat": 30.0,
+    "kcal": 280
+  },
+  {
+    "id": 40,
+    "title": "Fırın Karnabahar",
+    "yağ": 5.0,
+    "protein": 5.0,
+    "karbonhidrat": 20.0,
+    "kcal": 150
+  },
+  {
+    "id": 41,
+    "title": "Kırmızı Mercimek Salatası",
+    "yağ": 3.0,
+    "protein": 10.0,
+    "karbonhidrat": 25.0,
+    "kcal": 200
+  },
+  
+  {
+    "id": 43,
+    "title": "Mantar Sote",
+    "yağ": 5.0,
+    "protein": 3.0,
+    "karbonhidrat": 10.0,
+    "kcal": 120
+  },
+  {
+    "id": 44,
+    "title": "Taze Fasulye Yemeği",
+    "yağ": 8.0,
+    "protein": 15.0,
+    "karbonhidrat": 25.0,
+    "kcal": 240
+  },
+  {
+    "id": 45,
+    "title": "Dalyan Köfte",
+    "yağ": 12.0,
+    "protein": 18.0,
+    "karbonhidrat": 30.0,
+    "kcal": 290
+  },
+  {
+    "id": 46,
+    "title": "Kumpir",
+    "yağ": 20.0,
+    "protein": 5.0,
+    "karbonhidrat": 50.0,
+    "kcal": 400
+  },
+  {
+    "id": 47,
+    "title": "Fırın Patates",
+    "yağ": 8.0,
+    "protein": 3.0,
+    "karbonhidrat": 30.0,
+    "kcal": 220
+  },
+  {
+    "id": 48,
+    "title": "Pancar Salatası",
+    "yağ": 2.0,
+    "protein": 3.0,
+    "karbonhidrat": 15.0,
+    "kcal": 120
+  },
+  {
+    "id": 49,
+    "title": "Tavuklu Salata",
+    "yağ": 7.0,
+    "protein": 20.0,
+    "karbonhidrat": 15.0,
+    "kcal": 250
+  },
+  {
+    "id": 50,
+    "title": "Cacık",
+    "yağ": 5.0,
+    "protein": 3.0,
+    "karbonhidrat": 10.0,
+    "kcal": 120
+  },
+  {
+    "id": 51,
+    "title": "Karnabahar Yemeği",
+    "yağ": 6.0,
+    "protein": 4.0,
+    "karbonhidrat": 25.0,
+    "kcal": 180
+  },
+  {
+    "id": 52,
+    "title": "Balık Tava",
+    "yağ": 15.0,
+    "protein": 25.0,
+    "karbonhidrat": 5.0,
+    "kcal": 300
+  },
+  {
+    "id": 53,
+    "title": "Zeytinyağlı Kabak",
+    "yağ": 8.0,
+    "protein": 2.0,
+    "karbonhidrat": 20.0,
+    "kcal": 180
+  },
+  {
+    "id": 55,
+    "title": "Fırın Mantar",
+    "yağ": 4.0,
+    "protein": 5.0,
+    "karbonhidrat": 15.0,
+    "kcal": 130
+  },
+  
+  {
+    "id": 57,
+    "title": "Dana Guvec",
+    "yağ": 15.0,
+    "protein": 25.0,
+    "karbonhidrat": 10.0,
+    "kcal": 300
+  },
+
+  {
+    "id": 60,
+    "title": "Sebzeli Omlet",
+    "yağ": 10.0,
+    "protein": 15.0,
+    "karbonhidrat": 5.0,
+    "kcal": 200
+  },
+  {
+    "id": 67,
+    "title": "Mantar Sote",
+    "yağ": 5.0,
+    "protein": 3.0,
+    "karbonhidrat": 10.0,
+    "kcal": 120
+  },
+  {
+    "id": 68,
+    "title": "Taze Fasulye Yemeği",
+    "yağ": 8.0,
+    "protein": 15.0,
+    "karbonhidrat": 25.0,
+    "kcal": 240
+  },
+  {
+    "id": 69,
+    "title": "Dalyan Köfte",
+    "yağ": 12.0,
+    "protein": 18.0,
+    "karbonhidrat": 30.0,
+    "kcal": 290
+  },
+  {
+    "id": 72,
+    "title": "Pancar Salatası",
+    "yağ": 2.0,
+    "protein": 3.0,
+    "karbonhidrat": 15.0,
+    "kcal": 120
+  },
+  {
+    "id": 74,
+    "title": "Cacık",
+    "yağ": 5.0,
+    "protein": 3.0,
+    "karbonhidrat": 10.0,
+    "kcal": 120
+  },
+  {
+    "id": 76,
+    "title": "Balık Tava",
+    "yağ": 15.0,
+    "protein": 25.0,
+    "karbonhidrat": 5.0,
+    "kcal": 300
+  },
+  {
+    "id": 77,
+    "title": "Zeytinyağlı Kabak",
+    "yağ": 8.0,
+    "protein": 2.0,
+    "karbonhidrat": 20.0,
+    "kcal": 180
+  },
+  {
+    "id": 78,
+    "title": "Meyveli Smoothie",
+    "yağ": 2.0,
+    "protein": 1.0,
+    "karbonhidrat": 30.0,
+    "kcal": 150
+  },
+  {
+    "id": 79,
+    "title": "Fırın Mantar",
+    "yağ": 4.0,
+    "protein": 5.0,
+    "karbonhidrat": 15.0,
+    "kcal": 130
+  },
+  {
+    "id": 80,
+    "title": "Tahinli Pide",
+    "yağ": 10.0,
+    "protein": 8.0,
+    "karbonhidrat": 40.0,
+    "kcal": 280
+  },
+  {
+    "id": 81,
+    "title": "Dana Guvec",
+    "yağ": 15.0,
+    "protein": 25.0,
+    "karbonhidrat": 10.0,
+    "kcal": 300
+  },
+  {
+    "id": 83,
+    "title": "Ispanaklı Börek",
+    "yağ": 12.0,
+    "protein": 8.0,
+    "karbonhidrat": 30.0,
+    "kcal": 250
+  },
+  {
+    "id": 84,
+    "title": "Sebzeli Omlet",
+    "yağ": 10.0,
+    "protein": 15.0,
+    "karbonhidrat": 5.0,
+    "kcal": 200
+  }
+]

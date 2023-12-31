@@ -1,0 +1,115 @@
+import { StyleSheet } from "react-native";
+import colors from "../../../styles/colors";
+
+export default StyleSheet.create({
+    container: {
+        flex: 1,
+        alignItems: 'center',
+        backgroundColor:"black"
+      },
+      upper_tab_container:{
+        flexDirection:"row",
+        justifyContent:"space-evenly",
+        marginTop:10,
+        marginBottom:10,
+        borderBottomWidth:0.5,
+        borderColor:colors.lightgray
+      },
+      selected_text:{
+        color:"yellow",
+        fontSize:18,
+        margin:10
+      },
+      unselected_text:{
+        color:"white",
+        fontSize:18,
+        margin:10
+      },
+      selected_touch:{
+        borderBottomWidth:2,
+        borderBottomColor:"yellow",
+        
+      },
+      text:{
+        fontSize:18,
+        color:"white"
+      },
+      değer_isimleri_total_container:{
+        margin:5,
+        marginTop:10,
+        
+    },
+    değerler_total:{
+        color:"white",
+        fontWeight:"bold",
+        marginLeft:20,
+        marginRight:39,
+        alignSelf:"center",
+        marginTop:5
+    },
+    upper_container:{
+        flexDirection:"row",
+        justifyContent:"space-evenly",
+        marginLeft:12,
+        
+    },
+    chart:{
+        marginTop:20,
+        alignItems:"center"
+    },
+    first_besin_title_container:{
+        alignSelf:"flex-end",
+        marginRight:20,
+        marginTop:10,
+    },
+    second_besin_title_container:{
+      flexDirection:"row",
+      justifyContent:"space-around",
+      alignSelf:"flex-end",
+      marginRight:1,
+      marginTop:10
+  },
+    besin_title:{
+        color:"white",
+        padding:4,
+        marginLeft:4,
+        marginRight:5,
+        fontWeight:"bold",
+        fontSize:15
+    },
+    scroll:{
+        flex:1
+    },
+    öğün_container:{
+        marginTop:20,
+        marginBottom:100,
+    },
+    hedef_container:{
+      marginTop:20,
+      marginBottom:100,
+      borderBottomWidth:2,
+      borderBottomColor:colors.green,
+      flexDirection:"row",
+      justifyContent:"space-around",
+    },
+    hedef_title:{
+      color:colors.green,
+      fontsize:10,
+      textAlignVertical:"center",
+        padding:10,
+        marginLeft:2,
+        marginRight:2,
+    },
+    besin_container_header:{
+      fontSize:20, 
+      color:"white", 
+      marginTop:50, 
+      marginLeft:10
+    },
+    besin_header_border:{
+      color:"white", 
+      marginTop:10, 
+      borderWidth:1,
+      borderColor:"white"
+    }
+})
